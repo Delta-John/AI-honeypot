@@ -1,0 +1,22 @@
+# Ambientes virtuais
+venv/
+ENV/
+env/
+.env
+
+# Compilados e caches Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pkl
+
+# Logs locais de execução e auditoria
+logs/
+sec_audit.log
+*.log
+
+# VS Code e IDEs
+.vscode/
+.idea/
+.DS_Store
+
