@@ -235,8 +235,3 @@ Este projeto foi projetado com foco em **segurança por design**:
 | **AML.T0051** | LLM Prompt Injection (Direto e Indireto) | Interceptação via TF-IDF + Regex, roteamento para Honeypot e emissão de log CEF |
 | **AML.T0025** | Exfiltration via LLM | Decepção com entrega de Canary Tokens e correlação forense |
 | **AML.T0043** | Craft Adversarial Data | Rate Limiting adaptativo (HTTP 429 após 5 tentativas) |
-
----
-
-## 📄 Licença
-Distribuído sob a licença **MIT**. Consulte `LICENSE` para mais detalhes.
